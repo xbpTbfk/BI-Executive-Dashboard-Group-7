@@ -16,7 +16,7 @@ The system converts natural language questions into SQL queries, executes them a
    Navigate to project directory
 
    ```
-   cd gradio-adk-agent
+   cd BI-Executive-Dashboard-Group-7
    ```
 
    Install dependencies
