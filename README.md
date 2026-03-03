@@ -27,7 +27,7 @@ The system converts natural language questions into SQL queries, executes them a
 
 2. Configure Environment
    
-   Go to folder bi_agent which file name is .env and fill in your credentials:
+   Go to folder bi_agent and rename .example.env to .env and fill in your credentials:
 
    ```
    # Google API Key
