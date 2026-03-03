@@ -4,6 +4,23 @@ A production-ready Business Intelligence agent system built with Google's Agent 
 
 The system converts natural language questions into SQL queries, executes them against Microsoft SQL Server, and automatically generates visualizations and explanations using Google's Gemini AI.
 
+# Prerequisites
+Important : You need uv, a Gemini API key, and access to a SQL Server database.
+
+   **Required Software**
+   
+      - uv package manager
+      
+      - Python 3.12+
+      
+      - ODBC Driver 18 for SQL Server
+
+   **API Access**
+   
+      - Free Gemini API key from Google AI Studio
+      
+      - Microsoft SQL Server database access
+
 # How to use?
 1. Clone and Install
    
